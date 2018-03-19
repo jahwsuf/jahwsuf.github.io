@@ -1,1 +1,0 @@
-This section contains my guides for the game Oxygen Not Included.
