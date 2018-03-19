@@ -86,7 +86,7 @@ As you progress through the early game, you may note that Dupes often take a lot
 
 Less obvious, but equally important is the Gofers' role in _cleaning_ your base.  Consider the following image:
 
-![Sweepers' role in improving decor.](../img/debris-and-decor.png){:class="img-responsive"}
+![Sweepers' role in improving decor.](img/debris-and-decor.png){:class="img-responsive"}
 
 Note that each stack of debris is worth -9 points of decor - letting junk pile up around areas your Duplicants stay in is a bad idea for managing stress!  As your Pioneers get to work on making space for the colony, equally important is setting up a Dupe to clean the debris from areas you are converting into dedicated rooms that other Dupes might frequent - like your Barracks/bedroom, research room, and the Latrine/bathroom.  This is where the hybrid Gofer/Groundskeeper - the "Sweeper" - shines.
 
