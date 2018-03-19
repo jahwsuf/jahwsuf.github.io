@@ -1,2 +1,12 @@
 title: JahwsUF's Online Documents
 theme: jekyll-theme-time-machine
+reddit_owner_url: https://www.reddit.com/user/jahwsuf
+reddit_icon: /assets/img/reddit-icon.png
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+      
