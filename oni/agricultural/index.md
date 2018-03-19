@@ -1,5 +1,7 @@
 ---
 title: ONI - Agricultural Update Guide
+layout: guide
+description: My original, though outdated, guide to ONI
 ---
 
 I got Oxygen Not Included a couple of weeks ago, probably when there was that Steam ad when the Agricultural Update dropped, and I've really been enjoying the game, though there are aspects I've found confusing.  Also, I don't think I've seen terribly many resources out there when I've looked, so here's my attempt to contribute back and provide a guide for newcomers to the community.
