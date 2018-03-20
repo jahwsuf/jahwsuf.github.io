@@ -23,7 +23,7 @@ As mentioned on the [main guide](..), the most important decision you have to ma
   * Cooking isn't high demand, so Gastrophobia's a perfectly fine negative.  
   * Scaredy-cat is fine in small numbers as well - even a single Dupe can take on a Hatch just fine.
 * Problematic negatives:
-  * The main traits to avoid are *Bottomless Stomach* and Mouth *Breather* - these cause your Dupes to eat too much food or breathe far more oxygen than others, affecting your most critical resources.
+  * The main traits to avoid are **Bottomless Stomach** and **Mouth Breather** - these cause your Dupes to eat too much food or breathe far more oxygen than others, affecting your most critical resources.
   * Loud Sleepers will need a cot separate from where other dupes might sleep - this can easily disrupt your base layout and cause issues with base layout planning as you learn.
   * Small Bladder seems innocuous, but that Dupe's going to need a lot more breaks (and thus, more time wasted running and their waste will increase your overall workload and/or water consumption (once handled with plumbing) a bit.
 * Situational negatives:
@@ -47,11 +47,11 @@ Here is a list of some useful builds to keep in mind when picking a Dupe:
 
 ## Researcher
 
-In a standard run, you will likely only need a single researcher, but it's an incredibly important role for developing your base during the early to mid-game.  Research is how you unlock new technologies and buildings and is now also involved with geological analyses of the various fumaroles you'll discover as your Pioneers branch out through the map.
+In a standard run, you will likely only need a single researcher, but it's an incredibly important role for developing your base during the early to mid-game.  Research is how you unlock new technologies and buildings and is now also involved with geological analyses of the various Geysers you'll discover as your Pioneers branch out through the map.
 
 This Dupe's natural focus is the Research job line; simply enrolling in the Research Assistant line is enough to allow a Dupe to operate a Super Computer, which is necessary for any technology at or after the second tier.  As such, they should keep Research as their highest priority.  Since they will be the base's research specialist, note that _every other Dupe_ should have a Disabled priority for the Research skill so that the specialist is not blocked from working.
 
-This is also the rare role where I advocate quickly going for at least the second tier of the job as soon as possible, as only the final tier provides the needed buff for analyzing fumaroles.
+This is also the rare role where I advocate quickly going for at least the second tier of the job as soon as possible, as only the final tier provides the needed buff for analyzing Geysers.
 
 For times when this Dupe is not researching, I'd advise setting a "High" priority for Operate - they'll work other technical machinery and will also prioritize power generation when not busy researching, which can be important for maintaining power to your Research Station if no other Dupes are using your initial Manual Generator(s).  Later in the game, this will help them to "tech up" your base with Metals and Plastics.
 
@@ -100,7 +100,7 @@ Note that each stack of debris is worth -9 points of decor - letting junk pile u
 Accordingly, I advise fully embracing this role of the Gofer and cross-training them as Groundskeepers - this raises their Strength to enhance Tidy tasks, which _also_ enhances their carrying capacity.  The early-to-midgame lacks sufficient work for a purely-dedicated Tidy dupe, so folding in said tasks into a cross-trained Gofer makes sense due to this synergy.  There's also the little fact that for mopping tasks, whatever is mopped (Tidy errand) turns into bottles that must be carried (Supply errand) away.
 
 Priorities:
-* Very High: Operate, Tidy
+* Very High: Operate, Tidy, Storage, Life Support
 * Low: Dig, Construct.  Don't disable these outright, but their priority should be shuttling resources.
 
 ## Supplier
