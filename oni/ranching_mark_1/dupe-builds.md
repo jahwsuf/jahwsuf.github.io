@@ -29,20 +29,19 @@ As mentioned on the [main guide](..), the most important decision you have to ma
   * Flatulent disrupts any dupes whenever it triggers, which can disrupt their work.  It also easily messes with any gas management setup you may be going for.
   * Narcoleptic is a bad negative to take for any supply-oriented (high Athletic + Strength) dupe; they'll forget whatever item they were delivering when they take their nap.
 
-Please note that these lists are not exhaustive.
-
 # Dupe Builds
 
-As of the Occupational Update, Dupes may now specialize through job training.  Furthermore, the Ranching Upgrade Mark 1 has given us the priority system, allowing each Dupe to have a specialized set of priorities - this makes creating Dupe builds far more viable than it was before!
+As of the Occupational Update, Dupes may now specialize through job training.  Furthermore, the Ranching Upgrade Mark 1 has given us the priority system, allowing each Dupe to have a specialized set of priorities - this makes creating Dupe builds far more viable than it was before!  Thinking about Dupe specialization when picking a Dupe will help ensure you keep a well-balanced workforce for your base!
 
 Note that, in general, you should avoid racing a Dupe through their Job skill tree - carefully note how enhanced Jobs will affect expectations and feel free to stop progressing to prevent stress buildup across your base until you can manage it well.
 
-Here is a list of some useful builds.
+Here is a list of some useful builds to keep in mind when picking a Dupe:
 
 * [Researcher](#researcher)
-* Pioneer
-* Farmer
-* Gofer
+* [Pioneer](#pioneer)
+* [Farmer](#farmer)
+* [Sweeper](#sweeper)
+* [Supplier](#supplier)
 
 ## Researcher
 
@@ -51,6 +50,12 @@ In a standard run, you will likely only need a single researcher, but it's an in
 This Dupe's natural focus is the Research job line; simply enrolling in the Research Assistant line is enough to allow a Dupe to operate a Super Computer, which is necessary for any technology at or after the second tier.  As such, they should keep Research as their highest priority.  Since they will be the base's research specialist, note that _every other Dupe_ should have a Disabled priority for the Research skill so that the specialist is not blocked from working.
 
 This is also the rare role where I advocate quickly going for at least the second tier of the job as soon as possible, as only the final tier provides the needed buff for analyzing fumaroles.
+
+For times when this Dupe is not researching, I'd advise setting a "High" priority for Operate - they'll work other technical machinery and will also prioritize power generation when not busy researching, which can be important for maintaining power to your Research Station if no other Dupes are using your initial Manual Generator(s).  Later in the game, this will help them to "tech up" your base with Metals and Plastics.
+
+Priorities:
+* Very High: Research
+* High: Operate
 
 ## Pioneer
 
@@ -88,10 +93,25 @@ Less obvious, but equally important is the Gofers' role in _cleaning_ your base.
 
 ![Sweepers' role in improving decor.](img/debris-and-decor.png){:class="img-responsive"}
 
-Note that each stack of debris is worth -9 points of decor - letting junk pile up around areas your Duplicants stay in is a bad idea for managing stress!  As your Pioneers get to work on making space for the colony, equally important is setting up a Dupe to clean the debris from areas you are converting into dedicated rooms that other Dupes might frequent - like your Barracks/bedroom, research room, and the Latrine/bathroom.  This is where the hybrid Gofer/Groundskeeper - the "Sweeper" - shines.
+Note that each stack of debris is worth -9 points of decor - letting junk pile up around areas your Duplicants stay in is a bad idea for managing stress!  As your Pioneers get to work on making space for the colony, equally important is setting up a Dupe to clean the debris from areas you are converting into dedicated rooms that other Dupes might frequent - like your Barracks/bedroom, research room, and the Latrine/bathroom.  This is where the hybrid Gofer/Groundskeeper - the "Sweeper" - shines.  The Gofer and Courier bonus to carrying capacity allows for _much_ quicker removal of debris as well as quicker resource delivery for any ongoing construction.
 
 Accordingly, I advise fully embracing this role of the Gofer and cross-training them as Groundskeepers - this raises their Strength to enhance Tidy tasks, which _also_ enhances their carrying capacity.  The early-to-midgame lacks sufficient work for a purely-dedicated Tidy dupe, so folding in said tasks into a cross-trained Gofer makes sense due to this synergy.  There's also the little fact that for mopping tasks, whatever is mopped (Tidy errand) turns into bottles that must be carried (Supply errand) away.
 
+Priorities:
+* Very High: Operate, Tidy
+* Low: Dig, Construct.  Don't disable these outright, but their priority should be shuttling resources.
+
 ## Supplier
 
-(The Supply/Engineer hybrid)
+A good look at the job chart will quickly showcase the usefulness of a hybrid Gofer/Engineer build.  Conveyor belts can only be built by a Dupe that has cross-trained in both Job lines, which will take a considerable time investment to facilitate.  Fortunately, it's also a fairly useful early-game build as well.
+
+Whereas the Sweeper suggested above is oriented toward handling debris that interferes with the base, the Supplier is more oriented toward ensuring the base stays up and running.  As mentioned before with the Sweeper, Gofer and Courier dramatically help increase a Dupe's carrying capacity - this is useful for quicker deliveries of important materials to farms, Coal Generators, Algae Deoxidizers and Terrariums, and more.  Meanwhile, the Engineer job helps facilitate a Dupe's ability to ensure the base obtains enough electrical energy to keep all the machines operational; after all, electricity is another important resource for the base.  At the start of the game when all you have is Manual Generators, having a Dupe set to Very High priority for Operate is therefore very useful.
+
+Keeping in mind that the end-goal of this Dupe is to unlock resource logistics through constructing conveyor belts and the like, it's useful to devote some time to ranking up this Dupe's Architect skill as well.
+
+Priorities:
+* Very High:  Supply, Operate (during the early game)
+* High: Operate (later, once you move on to other generators), Construction (later, once you've unlocked conveyor belts)
+* Low: Dig.
+
+As your base grows, Supply errands can rapidly pile up, so having this Dupe devoted full-time to Supply tasks for the early game is quite reasonable.
