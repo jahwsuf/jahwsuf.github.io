@@ -2,6 +2,8 @@
 title: ONI - Starting Strategy
 layout: guide
 description: An ONI guide written for Ranching Upgrade Mk. 1
+toc: sections
+root: "#sections"
 ---
 
 # [](#sections)Sections
@@ -11,9 +13,11 @@ description: An ONI guide written for Ranching Upgrade Mk. 1
 * Setting Up Base - transitioning to the mid-game.
 * An Eye Toward Expansion
 
-First off, don't be afraid to just dive into the game and try things out for a couple of games first.  There's a lot to take in, and a lot of the game's appeal is in exploration and discovery - both in terms of game mechanics and your dupes' world.  Oh, and "dupes"?  "Dupe" is shorthand for "Duplicant," the race of your adorable little crew members in this game.
+First off, don't be afraid to just dive into the game and try things out for a couple of games first.  There's a lot to take in, and a lot of the game's appeal is in exploration and discovery - both in terms of game mechanics and your Dupes' world.  Oh, and "Dupe"?  "Dupe" is shorthand for "Duplicant," the race of your adorable little crew members in this game.
 
 If you wish to follow along with this guide, I'll be basing everything on a run using the world-gen seed `966355023`.  (Thanks to [this link](https://www.reddit.com/r/Oxygennotincluded/comments/7me2lk/share_your_map_seeds_here/) for the seed.)  It has an extremely convenient setup for learning the game and works with the new Ranching upgrade.
+
+To facilitate browsing and reading, this guide has been split across several pages.  Not that this prevents it from being a wall of text in all places, but it should at least help to reduce that issue significantly.  When in doubt, refer back to the top of this page - the "Sections" section.
 
 ---
 
@@ -170,11 +174,7 @@ Once you've established your initial workshop, make the following researches you
 * Power Regulation
   * This unlocks the standard Battery, which has four times the capacity of your Tiny Battery.  This means longer intervals between power generation runs and can help ensure oxygen production continues at night later on.
 
-Around this time you may notice that your initial Oxylite reserves are mostly gone; you'll soon need to start producing your own Oxygen!  Fortunately, we just got done setting up our initial workshop.
-
-![The initial workshop.](img/initial-workshop.png){:class="img-responsive"}
-
-The observant reader may have noticed a stray wire to the right of the bottom floor.  What's that for, you ask?  This slot was designed to take an Algae Deoxidizer, our first Oxygen production building.  It constantly consumes power when producing, but allows us to produce Oxygen where we want it.  I have a layout planned ahead - this lies along a vertical corridor in the eventual base, so it makes a good place for passively distributing the produced Oxygen - especially once we unlock Airflow Tiles later on.
+Around this time you may notice that your initial Oxylite reserves are mostly gone; you'll soon need to start producing your own Oxygen!  Fortunately, we just got done setting up our initial workshop, and the observant reader may have noticed a stray wire to the right of the bottom floor in my initial design.  What's that for, you ask?  This slot was designed to take an Algae Deoxidizer, our first Oxygen production building.  It constantly consumes power when producing, but allows us to produce Oxygen where we want it.  I have a layout planned ahead - this lies along a vertical corridor in the eventual base, so it makes a good place for passively distributing the produced Oxygen - especially once we unlock Airflow Tiles later on.
 
 So, be sure to add the following to your workshop somewhere:
 * Algae Deoxidizer.
@@ -185,7 +185,7 @@ Once you start Oxygen production, you'll want to watch your Algae levels regular
 
 Here's the new look of my base after unlocking the Jobs Board:
 
-![The base, now with jobs!](img/initial-workshop-wiring.png){:class="img-responsive"}
+![The base, now with jobs!](img/base-jobs-unlock.png){:class="img-responsive"}
 
 As a reminder of my initial crew:
 
@@ -283,14 +283,28 @@ Each individual stack of debris costs -9 decor in an area around it - and each d
 
 As a result, you'll want to sweep all of the rooms listed above that you actively maintain.  If you don't bother with a Mess Hall, be sure to at least sweep the area by your starting Gate!
 
+* When possible, hide wires!
+
+You'll note that the basic Wire has its own Decor debuff.  This only takes effect when the wire is visible to a Dupe, though, so aim to keep Wires hidden behind Tiles and walls so that Decor is minimally affected.  Recall again the initial workshop wiring diagram:
+
+![The wiring diagram.](img/initial-workshop-wiring.png){:class="img-responsive"}
+
+Note how the wires were hidden as much as possible - this rule is why!  I also plan to later add a door and a wall overlaying the exposed vertical wire, further reducing the Decor impact there.  This is also part of the reason for the empty space near the ladders in my current base design.
+
 * Make decorations!
 
 While in limited supply, in the early game you usually have a few Briar Seeds available.  Consider planting them in important places, as they provide a nice, wide Decor buff.  This requires the tier 1 research "Interior Decor," which also makes lighting available.  However, lighting requires power _and_ generates heat - a major mid/late-game issue.
 
 As you progress in the game, make sure to acquire at least one Dupe with Creativity of at least +2.  Once given the Artist job, they can create Masterpiece Portraits (from Blank Canvases) that provide a powerful +20 Decor buff in a radius of 6 - and this buff is per portrait and _stackable_!  Sculptures provide an even wider-range buff!  These provide the tools necessary to meet even the most haughty Dupe's Decor expectations!  Note that building the base for each requires the tier 2 research "Artistic Expression."
 
-Judicious use of these two strategies and careful management of Dupe errands (avoid getting them wet too often in a short timespan) goes a long way in keeping each Dupe's stress levels in check, especially in the early game.  I've made a game lasting through Cycle 128 that has never even seen a Massage Table be built, let alone needed and used.  Proactive stress management is a powerful tool for avoiding greater issues.
+Judicious use of these three strategies and careful management of Dupe errands (avoid getting them wet too often in a short timespan) goes a long way in keeping each Dupe's stress levels in check, especially in the early game.  I've made a game lasting through Cycle 128 that has never even seen a Massage Table be built, let alone needed and used.  Proactive stress management is a powerful tool for avoiding greater issues.
+
+![The base, now with less stress!](img/dupe-select.png){:class="img-responsive"}
+
+While I haven't yet gotten that Creativity Dupe I want, note that I've still been able to make three of the four important areas high enough Decor for early game to reduce Dupe stress and keep it in check; stress levels had risen significantly before the current cycle but are already dropping significantly!  (Green = good Decor, Red = bad Decor)
+
+### A New World - Conclusion
+
+Applying all of these strategies has given us a decently sustainable base to build upon - all of the fundamentals for each Dupe are taken care of, giving us plenty of flexibility to move forward and tech up our base.
 
 [Return to the Table of Contents](#sections)
-
----

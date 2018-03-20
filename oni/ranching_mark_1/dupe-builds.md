@@ -2,6 +2,8 @@
 title: ONI - Duplicant Selection
 layout: guide
 description: How to recognize and select the "perfect" Duplicant.
+toc: sections
+root: index#sections
 ---
 
 # Sections
