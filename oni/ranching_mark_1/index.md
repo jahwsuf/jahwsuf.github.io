@@ -31,7 +31,7 @@ Let's get the obvious things out of the way.
 
 A few less-obvious things to note:
 
-* The most important decision you have to make here are regarding your initial traits and stats.  The interests mostly serve as a buff to learning jobs - they're most useful when you _need_ a Dupe to skill up quickly to unlock a special skill, which is a situation you'll only reach after a number of cycles.
+* The most important decision you have to make here are regarding your initial traits and stats.  The interests mostly serve as a buff to learning jobs - they're most useful when you _need_ a Dupe to skill up quickly to unlock a special skill, which is a situation you'll only reach after a number of cycles.  Instead, traits are the most important factor in selecting a Dupe - pay careful attention to any traits that affect a Dupe's food or oxygen consumption before selecting them!  For a more in-depth analysis, check out the [Dupe Traits sub-guide](dupe-builds#dupe-traits).
 
 * Some stats are not particularly important until later in the game:
   * Tinkering - this affects manually-operated machines.  It'll take a while for this to become particularly relevant.
@@ -39,7 +39,7 @@ A few less-obvious things to note:
   * Ranching - this only becomes practical after you have established a sustainable farm, as it requires a second-tier job and a third-tier research to be of _any_ use.  It's definitely a nice skill, but it's useless when starting out.
   * Kindness - this matters when you start breaking into the Toxic (slime-filled) biome.
 
-* If possible, I advise picking duplicants for the following roles, prioritized from most to least important:
+* If possible, I advise picking duplicants for the following roles/[builds](dupe-builds#dupe-builds), prioritized from most to least important:
   * A ["Researcher"](dupe-builds#researcher) - someone with a high learning stat and without Small Bladder.  You have to unlock everything interesting in ONI.
   * A ["Farmer"](dupe-builds#farmer) - someone who can efficiently manage your colony's food and plants.  Multiplying seeds is important.
   * A ["Pioneer"](dupe-builds#pioneer) (Miner/Architect) - a great digger who can clear out early space for your base.  All the better if they can construct well.
@@ -51,4 +51,4 @@ Here are the dupes I'll be starting this tutorial with:
 
 ![An example initial crew I might take.](img/selected-dupes.png){:class="img-responsive"}
 
-If you would like a more in-depth discussion of Dupe selection, check out the [Dupe Builds](dupe-builds) sub-guide!
+If you would like a more in-depth discussion of overall Dupe selection, check out the [Dupe Builds sub-guide](dupe-builds)!

@@ -23,17 +23,19 @@ As mentioned on the [main guide](..), the most important decision you have to ma
   * Cooking isn't high demand, so Gastrophobia's a perfectly fine negative.  
   * Scaredy-cat is fine in small numbers as well - even a single Dupe can take on a Hatch just fine.
 * Problematic negatives:
-  * There are ones that block digging and construction, which I do not recommend for your initial crew.
-  * Loud Sleepers will need a cot separate from where other dupes might sleep - this can easily disrupt your base layout and cause issues with planning as you learn.  
-  * Small Bladder seems innocuous, but that Dupe's going to need a lot more breaks and will likely be less useful - and their waste will take increase your overall workload a bit.
-  * Flatulent disrupts any dupes whenever it triggers, which can disrupt their work.  It also easily messes with any gas management setup you may be going for.
+  * The main traits to avoid are *Bottomless Stomach* and Mouth *Breather* - these cause your Dupes to eat too much food or breathe far more oxygen than others, affecting your most critical resources.
+  * Loud Sleepers will need a cot separate from where other dupes might sleep - this can easily disrupt your base layout and cause issues with base layout planning as you learn.
+  * Small Bladder seems innocuous, but that Dupe's going to need a lot more breaks (and thus, more time wasted running and their waste will increase your overall workload and/or water consumption (once handled with plumbing) a bit.
+* Situational negatives:
+  * Flatulent disrupts any nearby dupes whenever it triggers, which can disrupt their work.  It also easily messes with any gas management setup you may be going for.  On the other hand, they _do_ produce small amounts of natural gas.
   * Narcoleptic is a bad negative to take for any supply-oriented (high Athletic + Strength) dupe; they'll forget whatever item they were delivering when they take their nap.
+  * There are ones that block digging and construction, which I do not recommend for your initial crew, but are easily survivable if the other Dupes are strong in the blocked skill.  Once the game is underway, this is generally no longer a concern.
 
 # Dupe Builds
 
 As of the Occupational Update, Dupes may now specialize through job training.  Furthermore, the Ranching Upgrade Mark 1 has given us the priority system, allowing each Dupe to have a specialized set of priorities - this makes creating Dupe builds far more viable than it was before!  Thinking about Dupe specialization when picking a Dupe will help ensure you keep a well-balanced workforce for your base!
 
-Note that, in general, you should avoid racing a Dupe through their Job skill tree - carefully note how enhanced Jobs will affect expectations and feel free to stop progressing to prevent stress buildup across your base until you can manage it well.
+Note that, in general, you should avoid racing a Dupe through their Job skill tree - carefully note how enhanced Jobs will affect expectations and feel free to stop progressing to prevent stress buildup across your base until you can manage it well.  You have a lot of time before most of the high-end jobs become necessary - there's generally more than enough time for job training.
 
 Here is a list of some useful builds to keep in mind when picking a Dupe:
 
@@ -81,7 +83,7 @@ As such, the Farmer's role is important on two fronts:
 Priorities:
 * Very High:  Farm
 * Low:  Construction, Operate
-* Low or Disabled:  Dig (this takes them far from base and the farm)
+* Low or Disabled:  Dig (which would take them far from base and the farm)
 
 It's not important to rush them into the Farmhand job immediately - the food expectation isn't favorable right at the start, and Gofer can be useful for transporting all of that Dirt to the Mealwood plants.  Only move toward Farmhand once you've gotten a decent Bristle Blossom farm (or the like) in place that can provide quality food to meet the upgraded expectations; it should be a while before you _need_ the second-tier job's specialized station, so you've got plenty of time before the transition is needed.
 
@@ -107,11 +109,15 @@ A good look at the job chart will quickly showcase the usefulness of a hybrid Go
 
 Whereas the Sweeper suggested above is oriented toward handling debris that interferes with the base, the Supplier is more oriented toward ensuring the base stays up and running.  As mentioned before with the Sweeper, Gofer and Courier dramatically help increase a Dupe's carrying capacity - this is useful for quicker deliveries of important materials to farms, Coal Generators, Algae Deoxidizers and Terrariums, and more.  Meanwhile, the Engineer job helps facilitate a Dupe's ability to ensure the base obtains enough electrical energy to keep all the machines operational; after all, electricity is another important resource for the base.  At the start of the game when all you have is Manual Generators, having a Dupe set to Very High priority for Operate is therefore very useful.
 
-Keeping in mind that the end-goal of this Dupe is to unlock resource logistics through constructing conveyor belts and the like, it's useful to devote some time to ranking up this Dupe's Architect skill as well.
+Keeping in mind that the end-goal of this Dupe is to unlock resource logistics through constructing conveyor belts and the like, it's useful to devote some time to ranking up this Dupe's Architect skill as well.  Aim to do this when your base is more or less stable and not in need of sweeping tasks.
 
-Priorities:
-* Very High:  Supply, Operate (during the early game)
-* High: Operate (later, once you move on to other generators), Construction (later, once you've unlocked conveyor belts)
-* Low: Dig.
+Early-game Priorities:
+* Very High:  Supply, Operate
+* Low: Construction, Dig.
 
 As your base grows, Supply errands can rapidly pile up, so having this Dupe devoted full-time to Supply tasks for the early game is quite reasonable.
+
+Late-game Priorities:
+* Very High:  Supply
+* High: Operate, Construction
+* Low: Dig.
