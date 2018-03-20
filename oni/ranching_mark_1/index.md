@@ -162,6 +162,8 @@ After accomplishing these first two steps and preparing for the next, my base lo
 
 Now that you've established somewhere for Dupes to "do their business," it's time to establish somewhere for Dupes to do their actual work.  The vast majority of buildings in ONI make use of electrical power to function or produce electrical power... but most of the buildings are presently locked - even the Jobs Board!  Accordingly, it's time to rectify that issue.
 
+## Your First "Workshop"
+
 Your initial setup should consist of the following:
 
 * One Manual Generator
@@ -179,6 +181,8 @@ For my version of this base, here's the setup I established:
 
 Note that wires build on a separate layer than tiles and buildings; you can hide them behind tiles to promote a prettier base!  However, you _cannot_ hide them behind unmined resources.
 
+## Initial Research Priorities
+
 Once you've established your initial workshop, make the following researches your priority, in order:
 
 * Advanced Research
@@ -188,6 +192,8 @@ Once you've established your initial workshop, make the following researches you
 * Power Regulation
   * This unlocks the standard Battery, which has four times the capacity of your Tiny Battery.  This means longer intervals between power generation runs and can help ensure oxygen production continues at night later on.
 
+## Oxygen Production Time!
+
 Around this time you may notice that your initial Oxylite reserves are mostly gone; you'll soon need to start producing your own Oxygen!  Fortunately, we just got done setting up our initial workshop, and the observant reader may have noticed a stray wire to the right of the bottom floor in my initial design.  What's that for, you ask?  This slot was designed to take an Algae Deoxidizer, our first Oxygen production building.  It constantly consumes power when producing, but allows us to produce Oxygen where we want it.  I have a layout planned ahead - this lies along a vertical corridor in the eventual base, so it makes a good place for passively distributing the produced Oxygen - especially once we unlock Airflow Tiles later on.
 
 So, be sure to add the following to your workshop somewhere:
@@ -195,7 +201,7 @@ So, be sure to add the following to your workshop somewhere:
 
 Once you start Oxygen production, you'll want to watch your Algae levels regularly.  When they get low, make sure to keep an eye out for new sources that you can mine and place into storage for later!
 
----
+## Jobs!
 
 Here's the new look of my base after unlocking the Jobs Board:
 
@@ -219,7 +225,7 @@ Around this time you'll likely be presented with your first random Dupe selectio
 
 ![Hmm... who to choose?](img/random-dupe-selection.png){:class="img-responsive"}
 
-Here, I got a pretty decent offering, though none of them is truly outstanding.  That being said, a value of 5 is fairly high for an initial stat, and we want to get a Farm going pretty soon.  Since Devon is similar but has better Supplier stats, I chose Travaldo here - he'll be devoted to the ["Farmer" build](dupe-builds#farmer), rounding out the four initial Dupe selection priorities I mentioned before.
+Here, I got a pretty decent offering, though none of them is truly outstanding... and we have no option to reroll them like we did with our first three.  That being said, a value of 5 is fairly high for an initial stat, and we want to get a Farm going pretty soon.  Since Devon is similar but has better Supplier stats, I chose Travaldo here - he'll be devoted to the ["Farmer" build](dupe-builds#farmer), rounding out the four initial Dupe selection priorities I mentioned before and freeing up Devon from the role.
 
 It does somewhat hurt to not take Frankie due to that pretty decent Cooking stat, but why take an Anemic Dupe when Travaldo's just about as good for the base and has a much lower impact negative trait?
 
@@ -295,7 +301,7 @@ For each formal ONI room, make sure to check the Room overlay to see the require
 
 Even for places that don't get special buffs, giving them high Decor can provide great value in reducing stress.  How can we accomplish this?
 
-* The number one rule in raising decor - remove all debris!
+## Remove All Debris
 
 ![Debris wrecks decor.](img/debris-and-decor.png){:class="img-responsive"}
 
@@ -303,7 +309,7 @@ Each individual stack of debris costs -9 decor in an area around it - and each d
 
 As a result, you'll want to sweep all of the rooms listed above that you actively maintain.  If you don't bother with a Mess Hall, be sure to at least sweep the area by your starting Gate!
 
-* When possible, hide wires!
+## Hide Wires
 
 You'll note that the basic Wire has its own Decor debuff.  This only takes effect when the wire is visible to a Dupe, though, so aim to keep Wires hidden behind Tiles and walls so that Decor is minimally affected.  Recall again the initial workshop wiring diagram:
 
@@ -311,11 +317,13 @@ You'll note that the basic Wire has its own Decor debuff.  This only takes effec
 
 Note how the wires were hidden as much as possible - this rule is why!  I also plan to later add a door and a wall overlaying the exposed vertical wire, further reducing the Decor impact there.  This is also part of the reason for the empty space near the ladders in my current base design.
 
-* Make decorations!
+## Add Creativity!
 
 While in limited supply, in the early game you usually have a few Briar Seeds available.  Consider planting them in important places, as they provide a nice, wide Decor buff.  This requires the tier 1 research "Interior Decor," which also makes lighting available.  However, lighting requires power _and_ generates heat - a major mid/late-game issue.
 
 As you progress in the game, make sure to acquire at least one Dupe with Creativity of at least +2.  Once given the Artist job, they can create Masterpiece Portraits (from Blank Canvases) that provide a powerful +20 Decor buff in a radius of 6 - and this buff is per portrait and _stackable_!  Sculptures provide an even wider-range buff!  These provide the tools necessary to meet even the most haughty Dupe's Decor expectations!  Note that building the base for each requires the tier 2 research "Artistic Expression."
+
+## The Result...
 
 Judicious use of these three strategies and careful management of Dupe errands (avoid getting them wet too often in a short timespan) goes a long way in keeping each Dupe's stress levels in check, especially in the early game.  I've made a game lasting through Cycle 128 that has never seen a Massage Table even be built, let alone needed and used.  Proactive stress management is a powerful tool for avoiding greater issues.
 
