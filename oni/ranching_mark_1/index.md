@@ -10,6 +10,14 @@ root: "#sections"
 
 * [Assembling Your Crew](#assembling-your-crew) - picking a good initial set of Dupes.
 * [A New World](#a-new-world) - how to survive the early game.
+  * [What Do I Have?](#what-do-i-have)
+  * [What Do I Need?](#what-do-i-need)
+  * [Sanitation](#sanitation)
+  * [Critical Storage](#critical-storage)
+  * [Research, Jobs, and Oxygen Production](#research-jobs-and-oxygen-production)
+  * [Careful Dupe Selection](#careful-dupe-selection)
+  * [Farming, Foraging, and Cooking](#farming-foraging-and-cooking)
+  * [Stress Mitigation](#stress-mitigation)
 * Setting Up Base - transitioning to the mid-game.
 * An Eye Toward Expansion
 
@@ -17,7 +25,7 @@ First off, don't be afraid to just dive into the game and try things out for a c
 
 If you wish to follow along with this guide, I'll be basing everything on a run using the world-gen seed `966355023`.  (Thanks to [this link](https://www.reddit.com/r/Oxygennotincluded/comments/7me2lk/share_your_map_seeds_here/) for the seed.)  It has an extremely convenient setup for learning the game and works with the new Ranching upgrade.
 
-To facilitate browsing and reading, this guide has been split across several pages.  Not that this prevents it from being a wall of text in all places, but it should at least help to reduce that issue significantly.  When in doubt, refer back to the top of this page - the "Sections" section.
+To facilitate browsing and reading, this guide has been split across several pages.  Not that this prevents it from being a wall of text in all places, but it should at least help to reduce that issue significantly.  When in doubt, refer back to the top of this page - the "Sections" section.  There will be a convenient link in the floating section header to facilitate this.
 
 ---
 
@@ -97,16 +105,18 @@ As you might guess from the game's initial tooltips, your first priority should 
 
 My general set of priorities when starting a new game:
 
-1.  Sanitation
-2.  Critical Storage
-3.  Research, Jobs, and Oxygen Production
-4.  Careful Dupe Selection
-5.  Farming, Foraging, and Cooking
-6.  Stress Mitigation
+1.  [Sanitation](#sanitation)
+2.  [Critical Storage](#critical-storage)
+3.  [Research, Jobs, and Oxygen Production](#research-jobs-and-oxygen-production)
+4.  [Careful Dupe Selection](#careful-dupe-selection)
+5.  [Farming, Foraging, and Cooking](#farming-foraging-and-cooking)
+6.  [Stress Mitigation](#stress-mitigation)
 
 Addressing each of these will make your base relatively stable for the first fifty cycles as long as you don't raise your Dupe count too high.
 
-### Sanitation
+---
+
+# Sanitation
 
 You see, there are some things your Dupes can handle just fine, and others that they... can't.  Or maybe it's more of a "won't," really, but let's not be too particular - it's up to you to ensure some things are kept at bay.  The first of these:  like people, your Dupes need themselves a good ol' fashioned bio break every once in a while.  This generally occurs once a day per Dupe.
 
@@ -125,7 +135,9 @@ Note that the only way into the rest of the base is through the Wash Basin.  Tha
 
 Of course, to get that Wash Basin up and running requires water - accordingly, your first task is to build a Pitcher Pump on an existing reservoir of fresh Water for use by the Wash Basin.
 
-### Critical Storage
+---
+
+# Critical Storage
 
 At the same time, I usually try to set up my initial storage for critical resources.  The reason - Hatches.
 
@@ -144,7 +156,9 @@ After accomplishing these first two steps and preparing for the next, my base lo
 
 ![Your goal for day 1.](img/lavatory-and-storage.png){:class="img-responsive"}
 
-### Research, Jobs, and Oxygen Production
+---
+
+# Research, Jobs, and Oxygen Production
 
 Now that you've established somewhere for Dupes to "do their business," it's time to establish somewhere for Dupes to do their actual work.  The vast majority of buildings in ONI make use of electrical power to function or produce electrical power... but most of the buildings are presently locked - even the Jobs Board!  Accordingly, it's time to rectify that issue.
 
@@ -197,7 +211,9 @@ For my starter Duplicants, I assigned the following Jobs:
 * Devon is following my ["Sweeper" build](dupe-builds#sweeper), so I assigned her to the Gofer role.  She also has a high Farming stat, so she might be swapped over completely to a Farmer at a later point.  We've a lot to sweep at the moment, but less to plant - so no harm, no foul.
 * Nikola is following my ["Pioneer" build](dupe-builds#pioneer) build at present.  That being stated, he's actually pretty suitable for an eventual ["Supplier" build](dupe-builds#supplier), but that will only factor in later.
 
-### Careful Dupe Selection
+---
+
+# Careful Dupe Selection
 
 Around this time you'll likely be presented with your first random Dupe selection option, such as the following:
 
@@ -209,7 +225,9 @@ It does somewhat hurt to not take Frankie due to that pretty decent Cooking stat
 
 If none of the Dupes look good for your base, I highly encourage you to "Reject All" - you should be doing this more often than not, especially while learning.  That said, it does help to at least get a fourth Dupe to help manage tasks fairly early.
 
-### Farming and Foraging
+---
+
+# Farming, Foraging, and Cooking
 
 Something else you've likely noticed around this time - that "Calories Available" count at the top-left is dropping.  Now that we can research basic Farming structures, it's time to build our first farm!  However, you may be missing something important for your first farm - seeds!
 
@@ -245,7 +263,9 @@ Benefits:
 Cons:
 * It consumes precious Water.  It may not seem precious now, but it becomes a major issue in the mid-game.
 
-### Stress Mitigation
+---
+
+# Stress Mitigation
 
 Now that we have systems in place to take care of the three most critical issues - hygiene, oxygen, and food - it's time to address the fourth - stress.  This is best addressed through enhancing your base's Decor values to provide a nice "shelter" for them.  When Decor expectations are met, stress is lowered - and vice-versa.
 
@@ -297,13 +317,15 @@ While in limited supply, in the early game you usually have a few Briar Seeds av
 
 As you progress in the game, make sure to acquire at least one Dupe with Creativity of at least +2.  Once given the Artist job, they can create Masterpiece Portraits (from Blank Canvases) that provide a powerful +20 Decor buff in a radius of 6 - and this buff is per portrait and _stackable_!  Sculptures provide an even wider-range buff!  These provide the tools necessary to meet even the most haughty Dupe's Decor expectations!  Note that building the base for each requires the tier 2 research "Artistic Expression."
 
-Judicious use of these three strategies and careful management of Dupe errands (avoid getting them wet too often in a short timespan) goes a long way in keeping each Dupe's stress levels in check, especially in the early game.  I've made a game lasting through Cycle 128 that has never even seen a Massage Table be built, let alone needed and used.  Proactive stress management is a powerful tool for avoiding greater issues.
+Judicious use of these three strategies and careful management of Dupe errands (avoid getting them wet too often in a short timespan) goes a long way in keeping each Dupe's stress levels in check, especially in the early game.  I've made a game lasting through Cycle 128 that has never seen a Massage Table even be built, let alone needed and used.  Proactive stress management is a powerful tool for avoiding greater issues.
 
-![The base, now with less stress!](img/dupe-select.png){:class="img-responsive"}
+![The base, now with less stress!](img/base-beautification.png){:class="img-responsive"}
 
 While I haven't yet gotten that Creativity Dupe I want, note that I've still been able to make three of the four important areas high enough Decor for early game to reduce Dupe stress and keep it in check; stress levels had risen significantly before the current cycle but are already dropping significantly!  (Green = good Decor, Red = bad Decor)
 
-### A New World - Conclusion
+---
+
+# A New World - Conclusion
 
 Applying all of these strategies has given us a decently sustainable base to build upon - all of the fundamentals for each Dupe are taken care of, giving us plenty of flexibility to move forward and tech up our base.
 
