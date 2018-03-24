@@ -1,5 +1,5 @@
 ---
-title: ONI - Starting Strategy
+title: ONI - Mid-game Prep
 layout: guide
 description: An ONI guide written for Ranching Upgrade Mk. 1
 toc: sections
