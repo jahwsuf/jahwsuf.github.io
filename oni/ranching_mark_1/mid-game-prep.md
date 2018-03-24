@@ -7,6 +7,16 @@ root: "./#sections"
 ---
 
 # Sections
+* [Assembling Your Crew](index#assembling-your-crew) - picking a good initial set of Dupes.
+* [A New World](index#a-new-world) - how to survive the early game.
+  * [What Do I Have?](index#what-do-i-have)
+  * [What Do I Need?](index#what-do-i-need)
+  * [Sanitation](index#sanitation)
+  * [Critical Storage](index#critical-storage)
+  * [Research, Jobs, and Oxygen Production](index#research-jobs-and-oxygen-production)
+  * [Careful Dupe Selection](index#careful-dupe-selection)
+  * [Farming, Foraging, and Cooking](index#farming-foraging-and-cooking)
+  * [Stress Mitigation](index#stress-mitigation)
 * [Long-Term Survival Issues](#long-term-survival-issues)
   * [Heat](#heat)
   * [Water](#water)
@@ -15,6 +25,11 @@ root: "./#sections"
     * [The Swamp Biome](#the-swamp-biome)
     * [The Caustic Biome](#the-caustic-biome)
 * [Moving to the Midgame](#moving-to-the-midgame)
+  * [Establish Plumbing](#establish-plumbing)
+  * [Enhancing Airflow](#enhancing-airflow)
+  * [Bristle Farming](#bristle-farming)
+  * [Advanced Power Generation](#advanced-power-generation), early Carbon Dioxide processing.
+  * [Cooking Tools Upgrade](#cooking-tools-upgrade)
 
 # Long-Term Survival Issues
 
@@ -126,12 +141,18 @@ While other biomes do exist, only the Swamp and Caustic biomes will be on the bo
 
 # Moving to the Midgame
 
-Now that we've covered the core issues that we must face to proceed further in the game, it's time to actually _do_ something about these issues.  For those of you who like "how-to" lists, here's my suggested approach to tackling these issues, starting where we left off from the [A New World](./#a-new-world) section of this guide.  I'll focus on the main tasks here, though each section will also contain other updates and pointers from how I've managed this guide's base.
+Now that we've covered the core issues that we must face to proceed further in the game, it's time to actually _do_ something about these issues.  For those of you who like "how-to" lists, here's my suggested approach to tackling these issues, starting where we left off from the [A New World](./#a-new-world) section of this guide.  I'll focus on the main tasks here, though each section will also contain other updates and pointers from how I've managed this guide's base, which are listed below as sub-points.
 
 I'll explain my decision making with each section and note the critical researches.  If you've already completed them, I advise looking ahead to the next section's needed research before stopping research tasks.
 
-1) [Establish Plumbing](#establish-plumbing)
-2) [Bristle Farming](#bristle-farming)
+1. [Establish Plumbing](#establish-plumbing)
+  * [Enhancing Airflow](#enhancing-airflow)
+2. [Bristle Farming](#bristle-farming)
+3. [Advanced Power Generation](#advanced-power-generation)
+  * Includes early Carbon Dioxide processing.
+  * [Cooking Tools Upgrade](#cooking-tools-upgrade)
+  * [Sealed Construction](#sealed-construction)
+  * [Hidden Geysers?](#a-hidden-geyser)
 
 ## Establish Plumbing
 
@@ -212,4 +233,115 @@ You might have been wondering what I've been planning to do with that area to th
 
 I left a separate valve early in the plumbing to provide a separate water pipe than the one that the Lavatory room is using.  At some point, we may convert the Lavatory to using non-potable Water sources, so it'd be nice to allow the water pathways to be separately managed for later down the line.  So, the main thing is simply to construct the room... which can get a slight bit tricky when working with five-tiles-high rooms, but that's what temporary ladders are for.
 
+![The new Bristle Blossom farm](img/bristle-farm.png){:class="img-responsive"}
 
+### Other Notes
+
+Since the last section, I've acquired an extra Dupe.  She wasn't too stellar statswise but came with Diver's Lung, probably the best positive trait in the game.  That reduced Oxygen intake   I figure she'll be a Supplier-type Dupe, since a developing base can near always use that kind of help and her stats weren't bad for it.
+
+## Automated Power Generation
+
+Around this time, you may have noticed an interesting issue with your food supplies - unrefrigerated food decays, and Dupes seem to actively avoid the oldest food.  Unfortunately, when part of a food stack spoils, the whole thing does, which can wreck your manufactured food supply.  To solve this, we need refrigeration.  Furthermore, now that we're Bristle farming, you may have had a power cut to your farm lights - power interruptions will interrupt your food production as well.  Therefore, it's time to fix our Power problem.
+
+At the same time, there's a secondary problem that may start needing to be addressed that will become even more pronounced once we've started using Coal Generators - our base already has a significant Carbon Dioxide buildup.  Let's look at the Oxygen Overlay (the left-most Overlay option):
+
+![Oxygen vs Carbon Dioxide - who will win?](img/co2-buildup.png){:class="img-responsive"}
+
+Everything red within the current base in the image above averages around 600g of Carbon Dioxide per tile.  This is about half the core base's pressure.  If you're wondering about the reports you've likely been getting about "Insufficient Oxygen Generation", this is a large part of it - though seriously, you probably do also need an extra Algae Deoxydizer at this point.  (I've been lazy about that here.)  Carbon Dioxide pressure will block Oxygen production if the Oxygen runs out of places to flow, and Carbon Dioxide is unbreathable.  We'll take care of this within this step as well.
+
+Required researches:
+* Internal Combustion (Tier 2)
+* Air Systems (Tier 2)
+
+Strongly suggested:
+* Advanced Power Regulation (Tier 3)
+* Brute-Force Refinement (Tier 2)
+* Automatic Control (Tier 2)
+* Generic Sensors (Tier 3)
+* Improved Ventilation (Tier 3)
+
+That's quite the research list!  Part of this is because we're actually going to tackle multiple problems at once.
+
+Benefits (with "Required"):
+* Frees up Dupes from Manual Generator use
+* Provides a near-uninterrupted Power source.
+
+Additional Benefits (with "Suggested"):
+* Conserves resources so that minimal Power is wasted and less upkeep is required.
+* Begins handling and elimination of your Carbon Dioxide buildup.
+* Provides significant Power flexibility moving forward for upcoming tasks.
+
+Costs:
+* We're now actively producing extra Carbon Dioxide, even if we're also handling it.
+* This results in extra Polluted Water production.  It's up to you whether this water is kept potable or not.
+* We now need to keep an eye on Coal levels, though we should be fine for quite a while.
+
+---
+
+One problem with Coal-based Power production is that it generates significant amounts of Heat - 45W of it, as opposed to the 5W of the Manual Generator.  As our Power needs will grow with the base, it would be wise to place such large sources of Heat away from our farms and the core of the base.  Another issue is its production of waste Carbon Dioxide.  This gas has a tendency to settle at the bottom of all other common in-game gases.  Putting the two together... the plan is to place our first Coal Generators below the base.  Simple, right?
+
+With this map, I've identified a spot I like for Coal Generators - the lower Caustic biome!  In particular, look below and slightly to the right of the ladders I'm building in the image below:
+
+![Future dig site detected](img/coal-generator-plans.png){:class="img-responsive"}
+
+That's a lovely block of Coal and Algae down there!  There are no other gases interfering, and this area can be kept quite isolated from the rest of the base, keeping the generated Heat far away.  There's also some Iron to the left that I plan to grab, since Copper's more unique than Iron in the game and I'm planning to start refining metal around now; our initial refining will be suboptimal and thus lose 50% of the metal we process.  That's fine for Iron, but possibly less fine for Copper.  That said, if you have tons of Copper lying around, don't worry about it.
+
+The reason for all of this:
+
+![My beloved Coal setup](img/coal-power.png){:class="img-responsive"}
+
+Let's take a closer look at the core of this setup:
+
+![Time for a Coal close-up](img/coal-central.png){:class="img-responsive"}
+
+That's two Coal Generators, one Smart Battery, a Power Transformer, one Carbon Scrubber, and an Atmo Sensor, hence all the tech requirements.  The Smart Battery is the best Battery on all fronts but one - capacity.  It emits less heat, loses less charge, and is phenomenal for Power-generating automation.  Its Automation output is wired directly to control both Coal Generators for optimal use of Coal.  Note that the Smart Battery is on the Heavi-Watt Wire, not on the "plain wire" side of the transformer.  This allows it to take in all power from both Generators without loss.
+
+![How's that wired, again?](img/coal-central-wiring.png){:class="img-responsive"}
+
+There's a second layer of Automation we bothered to install here - that Atmo Sensor is wired directly into the Carbon Scrubber.  I like setting mine to activate above 1000g gas pressure.  Note the structure of the Coal room - the sides are blocked off with Manual Airlocks and a wall, meaning the only way for gases to enter is "down."  Carbon Dioxide is the heaviest gas, so this room setup allows us to guarantee Carbon Dioxide will be the gas surrounding the Scrubber.  We choose 1000g of pressure so that we don't run the Scrubber under too low of an atmosphere or accidentally run out of the Carbon Dioxide surroundings - it's enough to keep a nice buffer, just in case.
+
+### Other Notes
+
+#### Cooking Tools Upgrade
+
+Now that our Bristle Blossom farm has had time to get started, we should swap from Liceloaf to Pickled Meal + Gristle Berry production.
+
+Benefits:
+* Pickled Meal stays fresh far longer than Liceloaf, costs no Water, and is disinfected when cooked.
+* The Gristle Berry is higher quality than Liceloaf, costs no extra Water, and holds more kCal per kg for better food storage efficiency!
+* Reduced Power consumption:  the Microbe Musher costs 240W while the Electric Grill costs only 60W!
+
+Costs:
+* Pickled Meal isn't as high-quality a meal as Liceloaf, so your, uh, "high-maintenance" Dupes might should avoid it.
+* The Electric Grill produces slightly more heat than a Microbe Musher.  It's generally not enough to be a problem, though.
+* The Electric Grill requires special Job training to use.
+
+If you haven't yet, you should start taking a look at the Consumables menu and start managing that a bit more closely to ensure Dupes have their expectations handled in a well-balanced manner for the state of your base.
+
+It's also a good time to build that Refrigerator I mentioned earlier, since Gristle Berries spoil far more quickly than Pickled Meal if you don't refrigerate them.
+
+#### Sealed Construction
+
+During this phase, I found a desire to build walls somewhere that would cause unwanted gas to leak into my base.  There's a fun trick that can be used to solve these scenarios:
+
+![I call wall hax!](img/sealed-construction.png){:class="img-responsive"}
+
+Gases don't move diagonally - only vertically and horizontally.  The trick here is to build a barrier in front of where you _actually_ want to build, then build in the actual location of interest.  The second build will push the unwanted gas back into where it had already been, allowing you to maintain your sealed atmosphere while changing the walls out into something safe for wires or pipes.
+
+#### A Hidden Geyser?
+
+Did you notice this odd-looking block near our Coal Generators?
+
+![Crouching tiger, hidden geyser](img/crouching-tiger-hidden-geyser.png){:class="img-responsive"}
+
+See that strange, 4-tile-wide block of black blocks?  That's unbreakable Neutronium, which serves as the base of something special.  New to the Ranching Upgrade, we now have random, hidden geysers to discover!  They won't produce anything until they're uncovered, but, uh... you may not want to uncover that one just yet.  Some of the new geysers have immense impacts on their environment that you simply may not be ready to handle this early in the game.  As long as you don't uncover them, they cannot produce and will not cause issues.  Tread lightly around them!
+
+As an example, I'll give you this picture from the in-game database.
+
+![One geyser type you really don't want to uncover right now!](img/volcano.png){:class="img-responsive"}
+
+So that you know, Magma tends to run about 1800 degrees Celsius, give or take.  You know, just a small bit of heat there.  Be SURE you're ready to handle the consequences before opening up one of these hidden geysers!  (Also known as - have mined Abyssalite handy!)
+
+---
+
+Now that we've established a long-term oriented farm and have a stable source of power and plumbing, it's time to formally move to the mid-game!

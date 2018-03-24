@@ -18,8 +18,19 @@ root: "#sections"
   * [Careful Dupe Selection](#careful-dupe-selection)
   * [Farming, Foraging, and Cooking](#farming-foraging-and-cooking)
   * [Stress Mitigation](#stress-mitigation)
-* [Long-Term Survival Issues](mid-game)
-* An Eye Toward Expansion
+* [Long-Term Survival Issues](mid-game-prep)
+  * [Heat](mid-game-prep#heat)
+  * [Water](mid-game-prep#water)
+  * [Power vs Time](mid-game-prep#power-vs-time)
+  * [Space](mid-game-prep#space)
+    * [The Swamp Biome](mid-game-prep#the-swamp-biome)
+    * [The Caustic Biome](mid-game-prep#the-caustic-biome)
+* [Moving to the Midgame](mid-game-prep#moving-to-the-midgame)
+  * [Establish Plumbing](mid-game-prep#establish-plumbing)
+  * [Enhancing Airflow](mid-game-prep#enhancing-airflow)
+  * [Bristle Farming](mid-game-prep#bristle-farming)
+  * [Advanced Power Generation](mid-game-prep#advanced-power-generation), early Carbon Dioxide processing.
+  * [Cooking Tools Upgrade](mid-game-prep#cooking-tools-upgrade)
 
 First off, don't be afraid to just dive into the game and try things out for a couple of games first.  There's a lot to take in, and a lot of the game's appeal is in exploration and discovery - both in terms of game mechanics and your Dupes' world.  Oh, and "Dupe"?  "Dupe" is shorthand for "Duplicant," the race of your adorable little crew members in this game.
 
