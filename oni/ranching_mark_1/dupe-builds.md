@@ -3,7 +3,7 @@ title: ONI - Duplicant Selection
 layout: guide
 description: How to recognize and select the "perfect" Duplicant.
 toc: sections
-root: index#sections
+root: "./#sections"
 ---
 
 # Sections
@@ -102,7 +102,7 @@ Note that each stack of debris is worth -9 points of decor - letting junk pile u
 Accordingly, I advise fully embracing this role of the Gofer and cross-training them as Groundskeepers - this raises their Strength to enhance Tidy tasks, which _also_ enhances their carrying capacity.  The early-to-midgame lacks sufficient work for a purely-dedicated Tidy dupe, so folding in said tasks into a cross-trained Gofer makes sense due to this synergy.  There's also the little fact that for mopping tasks, whatever is mopped (Tidy errand) turns into bottles that must be carried (Supply errand) away.
 
 Priorities:
-* Very High: Operate, Tidy, Storage, Life Support
+* Very High: Tidy, Storage, Life Support
 * Low: Dig, Construct.  Don't disable these outright, but their priority should be shuttling resources.
 
 ## Supplier

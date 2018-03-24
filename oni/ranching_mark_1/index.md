@@ -18,7 +18,7 @@ root: "#sections"
   * [Careful Dupe Selection](#careful-dupe-selection)
   * [Farming, Foraging, and Cooking](#farming-foraging-and-cooking)
   * [Stress Mitigation](#stress-mitigation)
-* Setting Up Base - transitioning to the mid-game.
+* [Long-Term Survival Issues](mid-game)
 * An Eye Toward Expansion
 
 First off, don't be afraid to just dive into the game and try things out for a couple of games first.  There's a lot to take in, and a lot of the game's appeal is in exploration and discovery - both in terms of game mechanics and your Dupes' world.  Oh, and "Dupe"?  "Dupe" is shorthand for "Duplicant," the race of your adorable little crew members in this game.
@@ -82,9 +82,9 @@ While that may be true, your Dupes have this nasty little habit.  They breathe, 
 * Three Dupes 
 * 16,000 kcal of food (A bit over 5 days of food for three dupes)
 * Starting oxygen (probably good for around 5 - 7 days with three dupes)
-* A gate with a pretty light show.
-  * More seriously, this gate is your base's initial center, and every three days it will offer you the selection of 1 of 3 new dupes that you **may** add to your growing colony.  Note, "**may**."  You have the option of denying all of them entry, and I highly advise you make use of that from time to time... probably more often than not.  Learning to manage your colony's size is a very important part of the game, and the game's difficulty increases with your Dupe count, as it affects your core Oxygen and food consumption rates.
-  * It is no coincidence that your starting food is right by the gate; the gate provides a lot of decor that helps reduce early stress, so having your Dupes eat right by the gate is a helpful default behavior while you work on other matters.
+* A gate (the Printing Pod) with a pretty light show.
+  * More seriously, the Printing Pod is your base's initial center, and every three days it will offer you the selection of 1 of 3 new dupes that you **may** add to your growing colony.  Note, "**may**."  You have the option of denying all of them entry, and I highly advise you make use of that from time to time... probably more often than not.  Learning to manage your colony's size is a very important part of the game, and the game's difficulty increases with your Dupe count, as it affects your core Oxygen and food consumption rates.
+  * It is no coincidence that your starting food is right by the Printing Pod; it provides a lot of decor that helps reduce early stress, so having your Dupes eat there is a helpful default behavior while you work on other matters.
 * Not much initial free space.  The good news is, you can dig out the entirety of your initial biome with ease!
 * The ability to build the following as soon as you mine your first blocks:
   * Ladders
@@ -307,7 +307,7 @@ Even for places that don't get special buffs, giving them high Decor can provide
 
 Each individual stack of debris costs -9 decor in an area around it - and each debris stack can only represent one resource!  If you've been doing big digs, it's easy to go -63 decor from this!
 
-As a result, you'll want to sweep all of the rooms listed above that you actively maintain.  If you don't bother with a Mess Hall, be sure to at least sweep the area by your starting Gate!
+As a result, you'll want to sweep all of the rooms listed above that you actively maintain.  If you don't bother with a Mess Hall, be sure to at least sweep the area by the Printing Pod!
 
 ## Hide Wires
 
